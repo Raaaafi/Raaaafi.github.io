@@ -1,0 +1,32 @@
+<html>
+
+	<head>
+		<style>
+		
+		body{font-family: tahoma; text-align: justify}
+		
+		#text1 {
+				font-style: italic;
+				font-weight: bold;
+				color: #888888
+		}
+		
+		h1 {color: white; background: #F5DA81; border: 3px solid #FF8000; text-align:center}
+		
+		img {width: 24%}
+		
+		#text1 {
+				font-style: italic;
+				font-weight: bold;
+				color: #888888
+		}
+		
+		ul {list-style-type: square}
+		ol {list-style-type: upper-roman}
+		
+		dt {float: left; font-weight: bold; margin-right: 0.5em}
+		dl {border: 2px solid #000000}	
+		</style>
+		
+		</head>
+		</html>
